@@ -1,0 +1,13 @@
+div{
+  display: inline-flex;
+}
+@media only screen and (max-width:1920px){
+ .x{
+   width: 600px;
+   height: auto;
+ }
+}
+@media only screen and (max-heith:1080px){
+
+
+}
